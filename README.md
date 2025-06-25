@@ -1,3 +1,6 @@
+> **Warning**
+> This integration is being deprecated, and will eventually be removed.
+
 # Github Deployment Gate Demo
 
 This is a sample application that demonstrates usage of the Sentry Github Deployment Gate integration application
